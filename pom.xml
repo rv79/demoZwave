@@ -92,6 +92,12 @@
 			<artifactId>rxtx</artifactId>
 			<version>2.1.7</version>
 		</dependency>
+
+		<dependency>
+			<groupId>com.github.zgmnkv</groupId>
+			<artifactId>zwave4j</artifactId>
+			<version>0.3</version>
+		</dependency>
 	</dependencies>
 
 	<build>
